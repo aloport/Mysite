@@ -1,6 +1,6 @@
 ---
 title: "Alberto López Ortega"
-1image: mypic.jpg
+1image: images/mypic.jpg
 about: 
   template: trestles
   image-shape: round
@@ -16,4 +16,4 @@ about:
 
 I am a Post-doc Researcher at the Faculty of Social Sciences of the [Free University of Amsterdam](https://research.vu.nl/en/persons/alberto-l%C3%B3pez-ortega).
 
-My research lies at the intersection of comparative politics, political behavior, and political psychology. I am particularly interested in how voters perceive their identities and transform them into political positions and preferences for political candidates. I am currently involved in these [**research projects**](https://aloport.github.io/projects)**.** My work has been published (or is accepted) in *Nature Human Behavior*, *American Journal of Political Science* and *Journal of Elections, Public Opinion, and Parties*.
+My research lies at the intersection of comparative politics, political behavior, and political psychology. I am particularly interested in how voters perceive their identities and transform them into political positions and preferences for political candidates. I am currently involved in these [**research projects**](https://aloport.github.io/projects)**.** My work has been published (or accepted) in *Nature Human Behavior*, *American Journal of Political Science* and *Journal of Elections, Public Opinion, and Parties*.
