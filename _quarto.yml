@@ -2,20 +2,22 @@ project:
   type: website
   output-dir: docs
 
-
 website:
-  title: "Mysite"
+  title: "Alberto López Ortega"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+   background: primary
+   left:
+     - href: index.qmd
+       text: Home
+     - about.qmd
+     - projects.qmd
+     - resume.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: minty
+      dark: slate
     css: styles.css
-    toc: true
 
 editor: visual
-

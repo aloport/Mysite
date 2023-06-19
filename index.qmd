@@ -1,11 +1,19 @@
 ---
-title: "Mysite"
+title: "Alberto López Ortega"
+1image: mypic.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: Twitter
+      href: https://twitter.com/bertous
+    - text: GitHub
+      href: https://github.com/aloport
+    - text: Email
+      href: mailto:a.lopez.ortega@vu.nl
 ---
 
-This is a Quarto website.
+I am a Post-doc Researcher at the Faculty of Social Sciences of the [Free University of Amsterdam](https://research.vu.nl/en/persons/alberto-l%C3%B3pez-ortega).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+My research lies at the intersection of comparative politics, political behavior, and political psychology. I am particularly interested in how voters perceive their identities and transform them into political positions and preferences for political candidates. I am currently involved in these [**research projects**](https://aloport.github.io/projects)**.** My work has been published (or is accepted) in *Nature Human Behavior*, *American Journal of Political Science* and *Journal of Elections, Public Opinion, and Parties*.
